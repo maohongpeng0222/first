@@ -1,4 +1,13 @@
-streamlit
-fastapi 
-uvicorn
-pydantic
+fastapi==0.115.4
+matplotlib==3.7.5
+mysql_connector_repackaged==0.3.1
+numpy==1.24.4
+pandas==2.0.3
+pydantic==2.9.2
+pyecharts==2.0.6
+Requests==2.32.3
+seaborn==0.13.2
+streamlit==1.38.0
+streamlit_chat==0.1.1
+streamlit_echarts==0.4.0
+websocket_client==1.8.0
